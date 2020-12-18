@@ -1,11 +1,11 @@
 {
-    "name": "ARA 2020 HMIT ITS",
-    "short_name": "ARA2020",
-    "description": "ARA 2020 - For A Better Future!",
-    "start_url": "/pages/index.html",
+    "name": "BCS - Bright Community Service",
+    "short_name": "BCS",
+    "description": "BCS - Bright Community Service",
+    "start_url": "/index.html",
     "display": "standalone",
-    "background_color": "#2bdcfb",
-    "theme_color": "#2bdcfb",
+    "background_color": "#F6BD60",
+    "theme_color": "#F6BD60",
      "icons": [
     {
       "src": "/images/logo.png",

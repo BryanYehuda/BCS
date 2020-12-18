@@ -2,6 +2,7 @@
   $(function(){
 
     $('.sidenav').sidenav();
+    $('.parallax').parallax();
 
-  }); 
-})(jQuery);
+  }); // end of document ready
+})(jQuery); // end of jQuery name space
