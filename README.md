@@ -1,4 +1,12 @@
 # Website BCS
+
+## English
+This website was created to promote Bright Community Service, a Christian church in Surabaya (In Progress)
+
+This Repository has **MIT License.**   
+This license allows the user to make any changes to the program code. This license only requires the user to include the license and author's copyright in the redistributed code and there is no prohibition against using the trademark of the original author. In addition, the user also has no right to sue the manufacturer when there is damage to the software.
+
+## Bahasa
 Website ini dibuat untuk mempromosikan Bright Community Service, sebuah gereja Kristen di Surabaya (In Progress)
 
 Repository ini memiliki **Lisensi MIT.**      
